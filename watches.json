@@ -1,0 +1,38 @@
+[
+    {
+      "brand": "Apple",
+      "model": "Watch Series 7",
+      "OS": "watchOS 8",
+      "price": 399,
+      "features": ["ECG", "Blood Oxygen Monitoring", "Fitness Tracking"]
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy Watch 4",
+      "OS": "Wear OS 3.0",
+      "price": 249,
+      "features": ["Health Tracking", "Fitness Coaching", "AMOLED Display"]
+    },
+    {
+      "brand": "Garmin",
+      "model": "Forerunner 945",
+      "OS": "Garmin OS",
+      "price": 599,
+      "features": ["GPS Tracking", "Advanced Running Metrics", "Triathlon Mode"]
+    },
+    {
+      "brand": "Fitbit",
+      "model": "Sense 2",
+      "OS": "Fitbit OS",
+      "price": 299,
+      "features": ["Stress Management", "Sleep Tracking", "Built-in GPS"]
+    },
+    {
+      "brand": "Fossil",
+      "model": "Gen 6",
+      "OS": "Wear OS 3.0",
+      "price": 349,
+      "features": ["Google Assistant", "Heart Rate Monitoring", "NFC Payments"]
+    }
+  ]
+  
